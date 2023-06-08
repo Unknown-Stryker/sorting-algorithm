@@ -1,0 +1,10 @@
+*.obj
+*.ipch
+*.idb
+*.pdb
+
+*.bat
+*.sh
+
+.vs/
+x64/
